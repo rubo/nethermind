@@ -4,10 +4,10 @@ This guide helps to get started with the Nethermind Ethereum execution client re
 
 ## Repo structure
 
-- [src/Nethermind](./src/Nethermind/): The Nethermind codebase
+- [src/Nethermind](./src/Nethermind/): The Nethermind codebase.
 - [tools](./tools/): Various servicing tools for testing, monitoring, etc.
-- [scripts](./scripts/): The build scripts and stuff used by GitHub Actions workflows
-- See [README.md](./README.md) for more info
+- [scripts](./scripts/): The build scripts and stuff used by GitHub Actions workflows.
+- See [README.md](./README.md) for more info.
 
 ## Coding guidelines and style
 
